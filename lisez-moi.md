@@ -7,7 +7,7 @@ output: html_document
 
 Ce document décrit le contenu du repository "collectivites-locales.gouv_scrap", créé pour partager les scripts permettant le scraping des données individuelles sur les budgets des collectivités territoriales à partir du site "collectivites-locales.gouv".
 
-Le détail du contenu du dossier "base_finances_collectivites" est présenté ci-dessous. Il est nécessaire de télécharger ce dossier sur le bureau pour que les programmes fonctionnent. Il n'est pas nécessaire de réutiliser les scripts pour accéder aux '''données obtenues''', les liens pour le téléchargement sont indiqués ci-après. Afin de cartographier ces données, des '''fonds de cartes''' sont également disponibles en téléchargement.
+Le détail du contenu du dossier "base_finances_collectivites" est présenté ci-dessous. Il est nécessaire de télécharger ce dossier sur le bureau pour que les programmes fonctionnent. Il n'est pas nécessaire de réutiliser les scripts pour accéder aux ~~données obtenues~~, les liens pour le téléchargement sont indiqués ci-après. Afin de cartographier ces données, des '''fonds de cartes''' sont également disponibles en téléchargement.
 
 ### Principes du scraping
 
