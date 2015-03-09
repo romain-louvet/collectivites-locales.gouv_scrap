@@ -11,7 +11,7 @@ Le détail du contenu du dossier "base_finances_collectivites" est présenté ci
 
 ### Principes du scraping
 
-### Contenue du dossier "base_finances_collectivites"
+### Contenu du dossier "base_finances_collectivites"
 
 ###### Codes collectivités
 
