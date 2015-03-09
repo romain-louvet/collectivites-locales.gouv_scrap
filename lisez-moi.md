@@ -17,7 +17,7 @@ Le détail du contenu du dossier "base_finances_collectivites" est présenté ci
 
 ###### Documentation
 
-Documentations téléchargées
+La documentation a été téléchargée à l'adresse suivante : [http://www.collectivites-locales.gouv.fr/methodologie-des-donnees-individuelles](http://www.collectivites-locales.gouv.fr/methodologie-des-donnees-individuelles)
 
 ###### Python scraper
 
