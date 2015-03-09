@@ -1,13 +1,5 @@
-﻿# Téléchargement de l'historique des modification de commune de 1999 à 2014 (historique.csv):
-
-http://www.insee.fr/fr/methodes/nomenclatures/cog/recherche_historique.asp?debut=1999&fin=2014&dep=00&mod=M0
-
-
-
 # Téléchargement des bases GEOFLA (IGN) :
 http://professionnels.ign.fr/geofla
-
-
 
 # Fichiers de codes INSEE :
 Les fichiers de codes géographiques des communes métropolitaines et des DOM sont extraits des bases GEOFLA 2014.
