@@ -9,12 +9,16 @@ Ce document décrit le contenu du repository "collectivites-locales.gouv_scrap",
 
 Le détail du contenu du dossier "base_finances_collectivites" est présenté ci-dessous. Il est nécessaire de télécharger ce dossier sur le bureau pour que les programmes fonctionnent.
 
-### Codes collectivités
+### Principes du scraping
 
-### Documentation
+### base_finances_collectivites
+
+###### Codes collectivités
+
+###### Documentation
 
 Documentations téléchargées
 
-### Python scraper
+###### Python scraper
 
 ### Données obtenues
