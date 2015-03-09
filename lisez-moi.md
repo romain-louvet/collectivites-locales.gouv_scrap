@@ -5,11 +5,11 @@ date: "Lundi, 10 Mars, 2015"
 output: html_document
 ---
 
-Ce document décrit le contenu du repository "collectivites-locales.gouv_scrap", créé pour partager les scripts permettant le scraping des données individuelles sur les budgets des collectivités territoriales à partir du site ["collectivites-locales.gouv"](http://www.collectivites-locales.gouv.fr/). Ces scripts ont été écrits en Python 3.4.
+Ce document décrit le contenu du repository "collectivites-locales.gouv_scrap", créé pour partager les scripts permettant le *scraping* des données individuelles sur les budgets des collectivités territoriales à partir du site ["collectivites-locales.gouv"](http://www.collectivites-locales.gouv.fr/). Ces scripts ont été écrits en Python 3.4.
 
 Le détail du contenu du dossier "base_finances_collectivites" est présenté ci-dessous. Il est nécessaire de télécharger ce dossier sur le bureau pour que les scripts fonctionnent. Il n'est pas nécessaire de réutiliser les scripts pour accéder aux **données obtenues**, les liens pour le téléchargement sont indiqués ci-après. Afin de cartographier ces données, des **fonds de cartes** sont également disponibles en téléchargement.
 
-### Principes du scraping
+### Principes du *scraping*
 
 ### Contenu du dossier "base_finances_collectivites"
 
@@ -19,7 +19,7 @@ Le détail du contenu du dossier "base_finances_collectivites" est présenté ci
 
 La documentation a été téléchargée à l'adresse suivante : [http://www.collectivites-locales.gouv.fr/methodologie-des-donnees-individuelles](http://www.collectivites-locales.gouv.fr/methodologie-des-donnees-individuelles)
 
-###### Python scraper
+###### Scripts Python
 
 ### Données obtenues
 
@@ -31,4 +31,4 @@ La documentation a été téléchargée à l'adresse suivante : [http://www.coll
 ### Fonds cartographiques
 
 - [communes (2014), départements (2014), régions (2014) et EPCI (2007 à 2014) de métropole](https://www.dropbox.com/s/0pmx33mzzempu43/base_fi_coll_carto_metropole.7z?dl=0)
-- [communes (2014), départements (2014), régions (2014) et EPCI (2007 à 2014) des DOM (Mayotte exceptée]()
+- [communes (2014), départements (2014), régions (2014) et EPCI (2007 à 2014) des DOM (Mayotte exceptée)]()
