@@ -53,6 +53,8 @@ Chacune des bases possède la même organisation par thème des éléments du bu
 - budget des départements, de 2008 à 2013
 - budget des régions, de 2008 à 2013
 
+Les informations disponibles varient d'une base à l'autre et selon les années. Ces données couvrent la France entière (métropole et DOM compris) à l'exception de Mayotte.
+
 ### Fonds cartographiques
 
 Les fonds géographiques sont issus de [GEOFLA 2014 (IGN)](http://professionnels.ign.fr/geofla). Les régions ont été créées par fusion des départements. Les EPCI ont été créées par fusion des communes, après jointure du fond [GEOFLA (IGN)](http://professionnels.ign.fr/geofla) de l'année correspondante avec les compositions des EPCI par année disponible sur www.collectivites-locales.gouv.fr. Les EPCI antérieures à 2011 ont été générées à l'aide du fond [GEOFLA (IGN)](http://professionnels.ign.fr/geofla) de 2011 (les versions des années antérieures à 2011 n'étant pas disponible sur le site de l'IGN). Les traitements ont été effectués à l'aide d'ArcGis 10.
