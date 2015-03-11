@@ -12,8 +12,8 @@ Le détail du contenu du dossier "base_finances_collectivites" est présenté ci
 ### Principes du *scraping*
 
 ```
-Cette partie présente les principes généraux du scraping. Pour plus d'information sur les scripts utilisés 
-dans ce cas précis, voir la partie concernant les scripts Python.
+Cette partie présente les principes généraux du scraping. Pour plus d'information sur 
+les scripts utilisés dans ce cas précis, voir la partie concernant les scripts Python.
 ```
 
 La donnée publique étant amenée à être de plus en plus accessible via Internet, cela n'implique pas nécessairement pour autant que cet accès permette un téléchargement d'une base de données complète, organisée, et surtout géolocalisée avec précision, répondant aux attentes des chercheurs en géographie. Bien des sites officiels proposent une consultation sélective de la données, mais pas le téléchargement de l'ensemble des informations en une seule fois. La problématique n'est de ce point de vue plus l'accès à l'information, mais plutôt sa collecte et sa mise en forme de façon organisée. Le *web scraping* est une solution possible à cette problématique.
