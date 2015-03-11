@@ -60,4 +60,4 @@ Les informations disponibles varient d'une base à l'autre et selon les années.
 Les fonds géographiques sont issus de [GEOFLA 2014 (IGN)](http://professionnels.ign.fr/geofla). Les régions ont été créées par fusion des départements. Les EPCI ont été créées par fusion des communes, après jointure du fond [GEOFLA (IGN)](http://professionnels.ign.fr/geofla) de l'année correspondante avec les compositions des EPCI par année disponible sur www.collectivites-locales.gouv.fr. Les EPCI antérieures à 2011 ont été générées à l'aide du fond [GEOFLA (IGN)](http://professionnels.ign.fr/geofla) de 2011 (les versions des années antérieures à 2011 n'étant pas disponible sur le site de l'IGN). Les traitements ont été effectués à l'aide d'ArcGis 10.
 
 - [communes (2014), départements (2014), régions (2014) et EPCI (2007 à 2014) de métropole](https://www.dropbox.com/s/0pmx33mzzempu43/base_fi_coll_carto_metropole.7z?dl=0)
-- [communes (2014), départements (2014), régions (2014) et EPCI (2007 à 2014) des DOM (Mayotte exceptée)]()
+- communes (2014), départements (2014), régions (2014) et EPCI (2007 à 2014) des DOM (Mayotte exceptée)
