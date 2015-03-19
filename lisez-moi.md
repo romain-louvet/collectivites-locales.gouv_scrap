@@ -12,7 +12,7 @@ Le détail du contenu du dossier "base_finances_collectivites" est présenté ci
 ### Principes du *scraping*
 
 ```
-Cette partie présente les principes généraux du scraping. Pour plus d'information sur 
+Cette partie présente les principes généraux du scraping. Pour plus d'informations sur 
 les scripts utilisés dans ce cas précis, voir la partie concernant les scripts Python.
 ```
 
