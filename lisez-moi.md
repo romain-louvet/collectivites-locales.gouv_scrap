@@ -46,12 +46,12 @@ Les données collectées n'ont pas été modifiées par les scripts, uniquement 
 
 ### Données obtenues
 
-Chacune des bases possède la même organisation par thème des éléments du budget des collectivités locales telle que présentée sur le site, à savoir : ***chiffres clés, fonctionnement, investissement, fiscalité, et autofinancement***. Un fichier excel est disponible par thème et contient les données par année (une feuille par année), plus une feuille de métadonnées (dont en particulier le nom des champs). Chaque base correspond à un échelon dans les différents niveaux de collectivités territoriales et est ici présentée par ordre d'échelle, de la plus grande échelle à la plus petite :
+Chacune des bases possède la même organisation par thème des éléments du budget des collectivités locales telle que présentée sur le site, à savoir : ***chiffres clés, fonctionnement, investissement, fiscalité, autofinancement et endettement***. Un fichier excel est disponible par thème et contient les données par année (une feuille par année), plus une feuille de métadonnées (dont en particulier le nom des champs). Chaque base correspond à un échelon dans les différents niveaux de collectivités territoriales et est ici présentée par ordre d'échelle, de la plus grande échelle à la plus petite :
 
 - [budget des communes, de 2000 à 2013](https://www.dropbox.com/s/bob2cr8mhnfwb4v/coll_loc_comm2000_2013.7z?dl=0)
-- budget des EPCI, de 2007 à 2013
-- budget des départements, de 2008 à 2013
-- budget des régions, de 2008 à 2013
+- [budget des EPCI, de 2007 à 2013]()
+- [budget des départements, de 2008 à 2013](https://www.dropbox.com/s/d4cpnyol7wlfuxw/coll_loc_dep2008_2013.7z?dl=0)
+- [budget des régions, de 2008 à 2013](https://www.dropbox.com/s/uabqm6wqsd7idv9/coll_loc_reg2008_2013.7z?dl=0)
 
 Les informations disponibles varient d'une base à l'autre et selon les années. Ces données couvrent la France entière (métropole et DOM compris) à l'exception de Mayotte.
 
