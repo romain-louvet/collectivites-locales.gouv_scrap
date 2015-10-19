@@ -49,7 +49,7 @@ Les données collectées n'ont pas été modifiées par les scripts, uniquement 
 Chacune des bases possède la même organisation par thème des éléments du budget des collectivités locales telle que présentée sur le site, à savoir : ***chiffres clés, fonctionnement, investissement, fiscalité, autofinancement et endettement***. Un fichier excel est disponible par thème et contient les données par année (une feuille par année), plus une feuille de métadonnées (dont en particulier le nom des champs). Chaque base correspond à un échelon dans les différents niveaux de collectivités territoriales et est ici présentée par ordre d'échelle, de la plus grande échelle à la plus petite :
 
 - [budget des communes, de 2000 à 2013](https://www.dropbox.com/s/bob2cr8mhnfwb4v/coll_loc_comm2000_2013.7z?dl=0)
-- [budget des EPCI, de 2007 à 2013]()
+- [budget des EPCI, de 2007 à 2013](https://www.dropbox.com/s/hl7hpq5aryuit20/coll_loc_epci2008_2013.7z?dl=0)
 - [budget des départements, de 2008 à 2013](https://www.dropbox.com/s/d4cpnyol7wlfuxw/coll_loc_dep2008_2013.7z?dl=0)
 - [budget des régions, de 2008 à 2013](https://www.dropbox.com/s/uabqm6wqsd7idv9/coll_loc_reg2008_2013.7z?dl=0)
 
